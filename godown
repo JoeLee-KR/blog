@@ -1,0 +1,5 @@
+git pull git@gitjoe:joelee-kr/blog.git 
+#git pull -f  git@gitjoe:joelee-kr/w3Hello.git 
+#git pull -f  git@gitjoe:joelee-kr/w3Hello.git master
+#
+#git -f -u
